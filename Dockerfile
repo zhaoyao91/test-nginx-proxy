@@ -1,1 +1,1 @@
-FROM zhaoyao91/meteord:onbuild
+FROM zhaoyao91/dmeteor
